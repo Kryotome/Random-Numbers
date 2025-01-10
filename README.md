@@ -1,7 +1,5 @@
 
-🔢 Random Number Generator and Classifier
-
- A Java-based program that generates a specified number of random numbers, classifies them into even and odd arrays, sorts them in different orders, and displays the results.
+🔢 Random Number Generator and Classifier. A Java-based program that generates a specified number of random numbers, classifies them into even and odd arrays, sorts them in different orders, and displays the results.
 
 💡 Features
 1. Prompt User for Number of Random Numbers: The program prompts the user to input how many random numbers they would like to generate.
